@@ -6,7 +6,7 @@ You will create a mobile application to help users find assistance from voluntee
   
 Your app should be able to track the user's location and display a map for volunteers who offer their time to help other people in need.  
   
-Users will be able to change their volunteering state (on/off). Your app will only show those who have their volunteering state 'on'.  Users should be able to update their volunteering state easily.  
+Users should be able to switch their volunteering state (on/off) easily. Your app will only show those who have their volunteering state 'on'.  
   
 After searching for the nearest volunteers, the app will allow users to communicate over SMS, an SMS will be sent from the user needing the service with a message to the volunteer.
   
