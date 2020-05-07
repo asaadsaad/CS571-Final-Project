@@ -8,7 +8,7 @@ Your app should be able to track the user's location and display a map for volun
   
 Users should be able to switch their volunteering state (on/off) easily. Your app will only show those who have their volunteering state set to 'on'.  
   
-After searching for the nearest volunteers, the app will allow users to communicate over SMS, an SMS will be sent from the user needing the service with a message to the volunteer.
+After searching for the nearest volunteers, the app will allow users to communicate via SMS, an SMS will be sent from the user needing the service with a message to the volunteer.
   
 Your project must include the following:
 * Implement a login based system using JSON Web Token (JWT).
