@@ -14,7 +14,7 @@ Your project must include the following:
 * Implement a login based system using JSON Web Token (JWT).
 * Use UI Kit.
 * Use Expo SDK APIs.
-* Use Express/MongoDB for supportive backend API. All Express routes should be protected from public access by JWT (except sign up and sign in routes)  
+* Use Express/MongoDB for supportive backend API. All Express routes should be protected from public access by JWT (except sign up and sign in routes). Persist the app state in AsyncStorage.  
   
 **Remember to respect and honor the code honor submission policy. All written code must be original.**  
   
