@@ -2,7 +2,7 @@
 ## Final Project 
 **This is an individual project.**
 ### Application specifications and requirements
-You will create a mobile application to help users find assistance seeking services from volunteers during the time of the novel covid-19 pandemic.  
+You will create a mobile application to help users find assistance from volunteers during the time of the novel covid-19 pandemic.  
   
 Your app should be able to track user's location and display a map for volunteers who offer their time to help other people in need.  
   
