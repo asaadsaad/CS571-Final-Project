@@ -11,7 +11,7 @@ Your project must include the following:
 * Use Expo SDK APIs.
 * Use Express/MongoDB for supportive backend API. All Express routes should be protected from public access by JWT (except sign up and sign in routes)  
 * Users should be able to update their volunteering state easily.
-* Your system will allow users to communicate over SMS, so an SMS will be sent from the user needing the service with a message to the volunteer.
+* After searching for the nearest volunteers, the system will allow users to communicate over SMS, an SMS will be sent from the user needing the service with a message to the volunteer.
   
 **Remember to respect and honor the code honor submission policy. All written code must be original.**  
   
