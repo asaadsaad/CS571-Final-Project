@@ -25,6 +25,6 @@ Please make sure you submit following requirements:
 * You are required to submit a detailed project plan for your daily performance (day/task/time) and submit it with your code.
 * You are required to submit a documentation file with full details about your backend API and frontend mobile app design structure.   
 
-**Deadline is Monday, May 11th, 08:00 PM** 
+**Deadline is Wednesday, May 13th, 08:00 PM** 
   
 **Good luck and happy coding!**
