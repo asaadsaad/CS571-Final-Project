@@ -14,5 +14,7 @@ Your project must include the following:
 **Remember to respect and honor the code honor submission policy. All written code must be original.**  
   
 Project will be evaluated based on your code quality (not quantity). I may need to schedule a meeting with some students to discuss their code-source.  
+
+**Deadline is Monday, May 11th, 12:00 PM noon** 
   
 **Good luck and happy coding!**
