@@ -21,6 +21,7 @@ Your project must include the following:
 Project will be evaluated based on your code quality (not quantity). I may need to schedule meetings with some students to discuss their code-source.  
 
 ## Submission Requirements:
+Please make sure you submit following requirements:  
 * You are required to submit a detailed project plan for your daily performance (day/task/time) and submit it with your code.
 * You are required to submit a documentation file with full details about your backend API and frontend mobile app design structure.   
 
