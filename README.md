@@ -24,6 +24,6 @@ Project will be evaluated based on your code quality (not quantity). I may need 
 * You are required to submit a detailed project plan for your daily performance (day/task/time) and submit it with your code.
 * You are required to submit a documentation file with full details about your backend API and frontend mobile app design structure.   
 
-**Deadline is Monday, May 11th, 12:00 PM noon** 
+**Deadline is Monday, May 11th, 08:00 PM** 
   
 **Good luck and happy coding!**
