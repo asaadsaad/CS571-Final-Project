@@ -6,9 +6,9 @@ You will create a mobile application to help users find assistance from voluntee
   
 Your app should be able to track the user's location and display a map for volunteers who offer their time to help other people in need.  
   
-Users will be able to change their volunteering state (on/off). Your system will only show those who have their volunteering state 'on'.  Users should be able to update their volunteering state easily.  
+Users will be able to change their volunteering state (on/off). Your app will only show those who have their volunteering state 'on'.  Users should be able to update their volunteering state easily.  
   
-After searching for the nearest volunteers, the system will allow users to communicate over SMS, an SMS will be sent from the user needing the service with a message to the volunteer.
+After searching for the nearest volunteers, the app will allow users to communicate over SMS, an SMS will be sent from the user needing the service with a message to the volunteer.
   
 Your project must include the following:
 * Implement a login based system using JSON Web Token (JWT).
