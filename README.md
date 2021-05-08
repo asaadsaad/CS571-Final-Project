@@ -1,5 +1,5 @@
 # CS571 - Mobile Application Development
-## Final Project - MIU Course Switch App
+## Final Project - MIU CSR App (Course Switch Request)
 ### Application specifications and requirements
 You will create a mobile application to help MIU students find another student to switch their courses/sections with them. 
   
