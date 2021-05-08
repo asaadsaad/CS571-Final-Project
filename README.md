@@ -27,6 +27,6 @@ Please make sure you submit following requirements:
 * You are required to submit a detailed project plan for your daily performance (day/task/time) and submit it with your code.
 * You are required to submit a documentation file with full details about your backend API and frontend mobile app design structure.   
 
-**Get ready for your project presentation on Friday May 14th at 10:00 AM** 
+**Get ready for your project presentation on Friday May 14th at 10:00 AM, Have your QR code ready.** 
   
 **Good luck and happy coding!**
