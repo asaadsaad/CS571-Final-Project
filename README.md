@@ -4,7 +4,7 @@
 You will create a mobile application to help MIU students find another student to switch their courses/sections with them. 
   
 Students will have to sign up for a new account (using MIU emails only), Every time they sign in, the application will read their location and only allow them to proceed if they are located within MIU campus, your application will display 3 tabs:
-1. **List of courses** with a requests counter, ordered by offering date, when they click on a course name, they see list of students who posted switch-request and currently enrolled in this course. *(Courses list is pre-defined by an admin).*
+1. **List of courses** with a requests counter, ordered by offering date (starting from current month forward), when they click on a course name, they see list of students who posted switch-request and currently enrolled in this course. *(Courses list is pre-defined by an admin).*
 2. **Latest posts** by date (timeline), every post contains student name, current course, and desired course(s), an optional message.
 3. **Post a new switch request**.
   
