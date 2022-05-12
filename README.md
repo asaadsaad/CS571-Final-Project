@@ -3,7 +3,7 @@
 ### Application specifications and requirements
 You will create a mobile application to help pet owners keep the medical records for their little furry friends.
   
-Pet owners will have to sign up for a new account (using a unique email, phone number, full name, password), Every time they sign in, the application will read their location and only allow them to proceed if they are located in the United States, your application will display 2 tabs:
+Pet owners will have to sign up for a new account (using a unique email, phone number, full name, password). Every time they sign in, the application will read their location and only allow them to proceed if they are located in the United States, the application will display 2 tabs:
 1. **List of Pets**
     * Add Pet (breed, birth date, color, pet name, type (cat/dog), weight)
     * List of Vaccines (Any vaccine older than 1 year should appear in 'Red' color with a label 'Expired')
@@ -12,9 +12,9 @@ Pet owners will have to sign up for a new account (using a unique email, phone n
     * List of Questions (ordered by date)
 
   
-Users should be able to update/remove their pets easily. 
+Users should be able to update/remove their pets/vaccines easily. 
   
-The Vet Support feature allows users to ask a question to an automated bot that uses AI to find answers to general questions, the app will simply send an SMS to a certain number and keep a copy of the SMS within the app.
+The Vet Support feature allows users to ask a question to an automated bot that uses AI to find answers to general questions, the app will simply send an SMS to a certain predefined number and keep a copy of the SMS within the app.
   
 Your project must include the following:
 * Implement a login based system using JSON Web Token (JWT).
