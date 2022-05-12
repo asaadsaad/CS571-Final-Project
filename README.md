@@ -1,5 +1,5 @@
 # CS571 - Mobile Application Development
-## Final Project - Iowa Pet Records App
+## Final Project - Pet Records App
 ### Application specifications and requirements
 You will create a mobile application to help pet owners keep the medical records for their little furry friends.
   
