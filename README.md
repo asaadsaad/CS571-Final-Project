@@ -22,7 +22,7 @@ Your project must include the following:
 * Use Expo SDK.
 * Use Express/MongoDB for supportive backend REST API. All Express routes should be protected from public access by JWT (except sign up and sign in routes). Persist the app state in AsyncStorage, so users don't need to login everytime they start the app.  
   
-Remember to respect the code honor submission policy. All written code must be original. Presenting something as one’s own work when it came from another source is plagiarism and is forbidden. Students should not share code or copy code from any source. Plagiarism is a very serious thing in all American academic institutions and is guarded against vigilantly by every professor.    
+This is not a group project, students should not work in groups or share code or copy code from any source. Remember to respect the code honor submission policy. All written code must be original. Presenting something as one’s own work when it came from another source is plagiarism and is forbidden. Plagiarism is a very serious thing in all American academic institutions and is guarded against vigilantly by every professor.    
   
 Project will be evaluated based on your code quality (not quantity).  
 
