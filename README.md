@@ -27,7 +27,7 @@ This is not a group project, students should not work in groups or share code or
 Project will be evaluated based on your code quality (not quantity).  
 
 ## Submission Requirements:
-Please make sure you submit following requirements:  
+The project deadline is Wednesday 9:00 AM. Please make sure you submit following requirements before the deadline:  
 * Detailed project plan for your daily performance (day/task/time) and submit it with your code.
 * Documentation file with full details about your backend API and frontend mobile app design structure.   
 
